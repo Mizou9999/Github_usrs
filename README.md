@@ -2,8 +2,6 @@
 
 You can clone this project and follow the directions below
 
-![Vue infite scroll Github users](https://ibb.co/WfH6wWV)
-
 ## Project setup
 
 First, clone this repo and switch into the repo folder:
